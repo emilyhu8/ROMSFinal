@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HistoryActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/titlehistory"
+                    android:text="@string/history"
+                    android:gravity="center_horizontal"
+                    android:textSize="30sp"/>
+                <TextView
+                    android:paddingTop="8dp"
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/history_main"
+                    android:text="@string/history_main"
+                    android:gravity="center_horizontal" />
+                <ImageView
+                    android:id="@+id/colonialism"
+                    android:layout_width="wrap_content"
+                    android:layout_height="300dp"
+                    android:src="@drawable/colonialism" />
+                <TextView
+                    android:id="@+id/history_language"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/history_lang"/>
+                <ImageView
+                    android:id="@+id/language"
+                    android:layout_width="wrap_content"
+                    android:layout_height="200dp"
+                    android:src="@drawable/language" />
+                <TextView
+                    android:id="@+id/history_religion"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/history_religion"/>
+                <ImageView
+                    android:id="@+id/relgion"
+                    android:layout_width="wrap_content"
+                    android:layout_height="250dp"
+                    android:src="@drawable/religion" />
+                <TextView
+                    android:id="@+id/history_food"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/history_food"/>
+                <ImageView
+                    android:id="@+id/food"
+                    android:layout_width="wrap_content"
+                    android:layout_height="300dp"
+                    android:src="@drawable/food" />
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:scrollbarAlwaysDrawVerticalTrack="true">
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_baseline_home_24"
+            android:id="@+id/Home"/>
+        <Button
+            android:id="@+id/History"
+            android:layout_width="wrap_content"
+            android:text="@string/history"
+            android:textSize="12sp"
+            android:layout_height="wrap_content"/>
+        <Button
+            android:id="@+id/Towns"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="12sp"
+            android:text="@string/towns_to_visit" />
+        <Button
+            android:id="@+id/Resources"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="12sp"
+            android:text="@string/resources"/>
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

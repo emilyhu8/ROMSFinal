@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ROMSFinal</string>
+    <string name="phillipines">Phillipines</string>
+    <string name="history">History</string>
+    <string name="towns_to_visit">Towns to Visit</string>
+    <string name="links">Links</string>
+    <string name="resources">Resources</string>
+    <string name="home">Home</string>
+    <string name="travel_guide">Travel Guide</string>
+    <string name="philippines_travel_advisory">Philippines Travel Advisory</string>
+    <string name="history_main"> In 1565, Spain established its permanent settlement in the Philippines. Spanish colonialism for three and a half centuries impacted every facet of the lives of Filipinos: their culture, their religion, their language, and even their last names. These Spanish influences are still seen today, over 120 years after the Philippines\' Independence from Spain (Blancaflor, 2018). However, after losing the Spanish-American War, the US took possession of the islands as a territory. This greatly angered the Filipinos as the Philippine Revolution against Spanish Colonial rule was still ongoing. As a result, the First Philippine Republic declared independence and established an individual government in 1899. The US military then viewed this as an act of insurrection, so the Philippine-American War quickly broke out. By 1902, hundreds of thousands of Filipinos had been killed by disease or famine as a result of the brutality of the war (CSUN). Until World War 2, the US was increasing the freedom Filipinos had in their own country at face value, but the government was slowly using the military to “pacify” the native population (CSUN). In 1946, the US signed the Treaty of Manila that recognizes the independence and sovereignty of the Republic of the Philippines. However, there was still a provision that allowed the US to retain existing military bases and assets, which means that the Philippines aren’t truly independent as they are still being exploited. This provision still holds today, and the US continues to take advantage of it. This past greatly contradicts the last line of the video “We welcome you”. Furthermore, even without the US’s exploitation, the political environment in the Philippines has been a corrupted bureaucracy that has stunted the Philippine economy, which has failed to address the needs of the poor and middle class (Timberman, 2019). This leads to some parts of the Philippines being drastically underdeveloped compared to the scenes shown in typical travel videos.</string>
+    <string name="history_lang">The influence Spanish culture has made on the Philippines continues to be prevalent today. About 20% of the Tagalog language is derived from Spanish. A couple of common words are shown below:</string>
+    <string name="history_religion">The Philippines is also the only predominantly Christian nation in Asia because of the prominent Catholicsm with the Spaniards. Filipinos still participate and celebrate many Catholic holidays and traditions. The Cathoic church also remains a very powerful force in the country, as it greatly influences government and lawmaking. Catholic-run schools were also established, and friars and nuns turned into teachers.</string>
+    <string name="history_food">The final large impact that can be seen is the Spanish food that has become staples in the Filipino diet. Here’s a list of some of them: corn, flour, squash, avocado, sausage, beef, guava, sapodilla, papaya, cabbage, cocoa, etc. </string>
+    <string name="link1"><a href="https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/philippines-travel-advisory.html ">travel.state.gov/content/travel/en/traveladvisories/traveladvisories/philippines-travel-advisory.html</a></string>
+    <string name="link2"><a href="https://ph.usembassy.gov/covid-19-and-travel-information/">ph.usembassy.gov/covid-19-and-travel-information</a></string>
+    <string name="link3"><a href="https://www.cia.gov/the-world-factbook/countries/philippines/">www.cia.gov/the-world-factbook/countries/philippines/</a></string>
+    <string name="link4"><a href="https://www.goabroad.com/articles/volunteer-abroad/best-volunteer-opportunities-in-the-philippines">www.goabroad.com/articles/volunteer-abroad/best-volunteer-opportunities-in-the-philippines</a></string>
+    <string name="link5"><a href="https://www.kayavolunteer.com/destinations/country/philippines/">www.kayavolunteer.com/</a></string>
+    <string name="link6"><a href="https://www.jtgtravel.com/asia/philippines/dangerous-places-in-the-philippines/">www.jtgtravel.com/asia/philippines/</a></string>
+    <string name="link7"><a href="https://www.gov.uk/foreign-travel-advice/philippines/safety-and-security">www.gov.uk/foreign-travel-advice/philippines/safety-and-security</a></string>
+    <string name="link8"><a href="https://www.expatarrivals.com/asia-pacific/philippines/safety-philippines">www.expatarrivals.com/asia-pacific/philippines/</a></string>
+    <string name="link9"><a href="https://donate.unicef.ph/campaign/29/give-one-time">https://donate.unicef.ph/campaign/29/give-one-time</a></string>
+    <string name="link10"><a href="https://give2asia.org/caritasmanila/">https://give2asia.org/caritasmanila/</a></string>
+    <string name="works_cited">Works Cited</string>
+    <string name="workscited"><a href="https://bit.ly/3yD9tW5">https://bit.ly/3yD9tW5</a></string>
+</resources>
