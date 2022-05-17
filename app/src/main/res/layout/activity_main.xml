@@ -7,7 +7,7 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:paddingTop="20dp"
+        android:paddingTop="50dp"
         android:id="@+id/Phillipines"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -20,7 +20,7 @@
         android:id="@+id/Travel"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Fundamentals"
+        android:text="FUNdamentals"
         android:textSize="45sp"
         android:gravity="center_horizontal"
         app:layout_constraintLeft_toLeftOf="parent"
@@ -67,5 +67,14 @@
             android:text="@string/resources"/>
 
     </LinearLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:gravity="center_horizontal"
+        android:layout_height="wrap_content"
+        android:text="A rough draft of the app..."
+        android:textSize="20sp"
+        android:background="@drawable/rectangle1"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/images"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
